@@ -1,16 +1,14 @@
 # flutter_biometric_auth
 
-A new Flutter project.
+A Flutter example project demonstrating biometric authentication using the local_auth plugin.
 
-## Getting Started
+Video walkthrough
 
-This project is a starting point for a Flutter application.
+- YouTube video: [Flutter Tutorial: Biometric Auth in Flutter 🔐]() <!-- replace with actual video URL -->
+- Channel: [Manoj Kulkarni](https://bit.ly/41Ryons) <!-- replace with actual channel URL -->
 
-A few resources to get you started if this is your first Flutter project:
+Local_auth plugin documentation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Package page: https://pub.dev/packages/local_auth
+- API docs: https://pub.dev/documentation/local_auth/latest/
+- Plugin repository and platform setup: https://github.com/flutter/plugins/tree/main/packages/local_auth
