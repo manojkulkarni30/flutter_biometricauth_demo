@@ -4,7 +4,7 @@ A Flutter example project demonstrating biometric authentication using the local
 
 Video walkthrough
 
-- YouTube video: [Flutter Tutorial: Biometric Auth in Flutter 🔐]() <!-- replace with actual video URL -->
+- YouTube video: [Flutter Tutorial: Biometric Auth in Flutter 🔐](https://bit.ly/4qHegx0) <!-- replace with actual video URL -->
 - Channel: [Manoj Kulkarni](https://bit.ly/41Ryons) <!-- replace with actual channel URL -->
 
 Local_auth plugin documentation
